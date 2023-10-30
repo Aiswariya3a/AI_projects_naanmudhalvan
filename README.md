@@ -44,5 +44,4 @@ You will find the model's performance metrics, including accuracy, precision, re
 ## Author
 - Aiswariya S
 - Email : aiswariya.s2021@kgkite.ac.in
-```
 
