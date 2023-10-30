@@ -1,5 +1,4 @@
 # AI_projects_naanmudhalvan
-```markdown
 # Spam Classifier Project
 
 ## Overview
@@ -14,7 +13,6 @@ Ensure you have the following dependencies installed to run the code:
 
 You can install the required libraries using pip:
 pip install pandas scikit-learn numpy
-```
 
 ## Dataset
 - Dataset Source: [SMS Spam Collection Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
