@@ -13,7 +13,6 @@ Ensure you have the following dependencies installed to run the code:
 - NumPy
 
 You can install the required libraries using pip:
-```bash
 pip install pandas scikit-learn numpy
 ```
 
